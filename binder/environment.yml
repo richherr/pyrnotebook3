@@ -129,7 +129,6 @@ dependencies:
   - r-gafit
   - r-feather
   - r-zoocat
-  - r-oo
   - r-zoomgrid
   - r-zipr
   - r-zipfr
@@ -157,7 +156,6 @@ dependencies:
   - r-xopen
   - r-xnomial
   - r-xmlrpc2
-  - r-xlmr2
   - r-xltabr
   - r-xlsxjars
   - r-xlsx
